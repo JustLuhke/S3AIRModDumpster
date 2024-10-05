@@ -1,0 +1,11 @@
+{
+	"Metadata":
+	{
+		"Name": "Better Time Attack Goal Pole Sprite",
+		"UniqueID": "s3air-better-time-attack-pole",
+		"Author": "AtomiswaveLuhke",
+		"Description": "Makes S3A.I.R.'s Time Attack Pole sprite generally better and more accurate to the original Competition Mode Goal Pole sprite it's based on.",
+		"ModVersion": "1.0",
+		"GameVersion": "20.04.26.0"
+	}
+}
